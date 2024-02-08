@@ -1,4 +1,4 @@
-# DGL 2024 (Imperial College London, Computing)
+# DGL 2024 (ICL, Computing)
 Deep Graph-Based Learning Course.
 
 # Lecture videos and notes
