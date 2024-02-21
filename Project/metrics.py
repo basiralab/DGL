@@ -1,7 +1,7 @@
 from MatrixVectorizer import MatrixVectorizer
 
 # the following numbers do not reflect the provided dataset, just for an example
-num_test_samples = 10
+num_test_samples = 20
 num_roi = 10
 
 # create a random model output 
