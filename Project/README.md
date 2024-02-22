@@ -4,11 +4,11 @@
 
 - List the names of your team members and the name of your team.
 
-## Problem Description
+## Problem Description
 
 - A short description of the problem you are solving. Why is the brain graph super-resolution an ineresting problem to solve?
 
-## Name of your model - Methodology
+## Name of your model - Methodology
 
 - Summarize in a few sentences the building blocks of your generative GNN model.
 
@@ -18,7 +18,7 @@
 
 - Give instructions on how to install the external libraries if you have used any in your code.
 
-## Results
+## Results
 
 - Insert your bar plots.
 
