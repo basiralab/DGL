@@ -1,4 +1,4 @@
-# Deep Graph Learning (DGL, 2024) 
+# Deep Graph Learning (DGL, 2025) 
 
 Taught by Prof. [Islem Rekik](https://basira-lab.com/) at Imperial College London
 ***
